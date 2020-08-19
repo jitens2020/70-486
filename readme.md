@@ -1,7 +1,7 @@
 # Microsoft Exam 70-486 Topics
 
 ### 1. Design the application architecture (15-20%)
-    <** a.Plan the application layers**
+    ** a.Plan the application layers**
 Plan data access;
 plan for separation of concerns,;
 appropriate use of models, views, controllers, view
